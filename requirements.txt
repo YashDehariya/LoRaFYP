@@ -1,5 +1,4 @@
-fastapi
-uvicorn
-meshtastic
-pydantic
-pyserial
+FastAPI==0.95.0
+pydantic==1.10.2
+meshtastic==1.0.0
+uvicorn==0.22.0
